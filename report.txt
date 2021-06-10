@@ -1,2 +1,3 @@
 first line of report.txt file added from remote repository.
 ===>second line added from desktop, commiting as "second commit from desktop"
+===>third line added from desktop,commenting as "third commit from desktop"
